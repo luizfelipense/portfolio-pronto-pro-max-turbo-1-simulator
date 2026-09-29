@@ -1,11 +1,27 @@
 body{
-    background-color: aqua;
-
+    background-color: #fffdfb;
+    margin: 15px auto;
 }
 main{
-    background-color: blue;
+    background-color: #4c7383;
 }
 a p{
-    background-color: aqua;
+    background-color:rgb(255, 255, 255);
+    width: 30%; 
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    text-align: center;
+    margin: 15px auto;
+    transition: 1s all;
+}
+a p:hover{
+    background-color: #ffffff;
+    transform: scale(1.2);
+    border-style: solid;
 
+}
+h1{
+    text-align: center;
+    color: #0003bd;
 }
