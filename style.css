@@ -1,27 +1,34 @@
 body{
-    background-color: #fffdfb;
+    background-color: #083c51
     margin: 15px auto;
 }
 main{
-    background-color: #4c7383;
+    background-color: #083c51
 }
 a p{
     background-color:rgb(255, 255, 255);
-    width: 30%; 
+    width: 20%; 
     padding: 10px;
     font-weight: bold;
     border-radius: 5px;
     text-align: center;
-    margin: 15px auto;
+    margin: 25px auto;
     transition: 1s all;
 }
 a p:hover{
-    background-color: #ffffff;
+    background-color: #083c51
     transform: scale(1.2);
     border-style: solid;
 
 }
 h1{
     text-align: center;
-    color: #0003bd;
+    color: #a28f6a
 }
+footer{
+    margin-top: 200000px;
+}
+img{
+    width: 100px;
+}
+
