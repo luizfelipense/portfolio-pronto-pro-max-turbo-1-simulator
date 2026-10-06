@@ -1,5 +1,6 @@
 body{
-    background-color: #083c51
+    background-color: #083c51;
+
     margin: 15px auto;
 }
 main{
@@ -16,7 +17,7 @@ a p{
     transition: 1s all;
 }
 a p:hover{
-    background-color: #083c51
+    background-color: #083c51;
     transform: scale(1.2);
     border-style: solid;
 
