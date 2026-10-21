@@ -1,0 +1,35 @@
+body{
+    background-color: #083c51;
+
+    margin: 15px auto;
+}
+main{
+    background-color: #083c51
+}
+a p{
+    background-color:rgb(255, 255, 255);
+    width: 20%; 
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    text-align: center;
+    margin: 25px auto;
+    transition: 1s all;
+}
+a p:hover{
+    background-color: #083c51;
+    transform: scale(1.2);
+    border-style: solid;
+
+}
+h1{
+    text-align: center;
+    color: #a28f6a
+}
+footer{
+    margin-top: 200000px;
+}
+img{
+    width: 100px;
+}
+
